@@ -1,2 +1,2 @@
-# EDA
-Embedding Dimensional Attention
+# EEDA
+Efficient Embedding Dimensional Attention
