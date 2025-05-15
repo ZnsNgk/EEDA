@@ -4,7 +4,7 @@ import torch.nn.functional as F
 from timm.models.layers import DropPath, to_2tuple, trunc_normal_
 import math
 
-class IRB(nn.Module):
+class MLP_FFN(nn.Module):
     def __init__(self, in_features, hidden_features=None, out_features=None, ksize=3, act_layer=nn.Hardswish, drop=0.):
         super().__init__()
         out_features = out_features or in_features
