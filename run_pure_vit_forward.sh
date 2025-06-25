@@ -1,0 +1,11 @@
+./train_pure_vit.sh 4 pure_vit_eeda_front_1
+./train_pure_vit.sh 4 pure_vit_eeda_front_2
+./train_pure_vit.sh 4 pure_vit_eeda_front_3
+./train_pure_vit.sh 4 pure_vit_eeda_front_4
+./train_pure_vit.sh 4 pure_vit_eeda_front_5
+./train_pure_vit.sh 4 pure_vit_eeda_front_6
+./train_pure_vit.sh 4 pure_vit_eeda_front_7
+./train_pure_vit.sh 4 pure_vit_eeda_front_8
+./train_pure_vit.sh 4 pure_vit_eeda_front_9
+./train_pure_vit.sh 4 pure_vit_eeda_front_10
+./train_pure_vit.sh 4 pure_vit_eeda_front_11

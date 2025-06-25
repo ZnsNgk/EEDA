@@ -1,0 +1,24 @@
+{
+    "attention_list": [
+        "MLP", 
+        "MLP",
+        "MLP",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA",
+        "EEDA"], 
+    "patch_size": 14, 
+    "embed_dims": 768,
+    "num_heads": 12, 
+    "qkv_bias": true, 
+    "qk_scale": null, 
+    "drop_rate": 0.0,
+    "attn_drop_rate": 0.0, 
+    "drop_path_rate": 0.1,
+    "depths": 12
+}

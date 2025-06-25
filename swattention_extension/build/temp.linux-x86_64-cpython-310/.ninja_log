@@ -1,0 +1,8 @@
+# ninja log v5
+3	28189	1742159830141175896	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/swattention.o	9df4a82b28b0c9db
+1	82066	1742159871464989966	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/av_fw_kernel.o	258c69908d44e3b4
+1	89350	1742159873680979988	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/qk_bw_kernel.o	4417c8653efc9f96
+2	89607	1742159873772979574	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/qk_fw_kernel.o	cf989d03530a67e4
+1	91200	1742159874324977088	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/av_bw_kernel.o	99329d8329eb663a
+3	92544	1742159884476931366	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/qk_rpb_fw_kernel.o	2f028abaca6779b3
+2	92956	1742159884888929510	/root/shared-nvme/PureFormer/swattention_extension/build/temp.linux-x86_64-cpython-310/qk_rpb_bw_kernel.o	f74f3ce83c007aec
